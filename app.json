@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "25f275ce-4c7a-4cba-8bb5-cb05e67ea9f8"
+            "value": "56a461a8-7dd8-4b8d-af3e-57d09b673607"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/geyong2/uistudy/blob/master/etc/CADDYIndexPage.md",
